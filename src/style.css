@@ -74,7 +74,7 @@ li {
 }
 
 #page-container > div {
-  max-width: 40vw;
+  max-width: 40ch;
   display: flex;
   flex-direction: column;
   justify-content: center;
